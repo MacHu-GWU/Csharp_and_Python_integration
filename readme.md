@@ -1,0 +1,1 @@
+This project is to figure out the best way to integrate Python code with C# application without pain
